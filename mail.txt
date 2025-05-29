@@ -1,0 +1,5 @@
+I was not able to find  any old documents on the same but i have made a simple comparsion document attached here.
+
+Regardin licesing there are 2 flavours in Workzone.
+Standard Edition - No extra license cost included with BTP.
+Advanced Edition - Extra cost per user.
